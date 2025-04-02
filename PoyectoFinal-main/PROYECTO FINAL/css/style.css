@@ -1,0 +1,36 @@
+.line{
+	 height: 25px;
+    width: 100%;	
+    background-color: #003049;
+	color: #ffff;
+}
+
+.espacio{
+	margin-top:40px;
+	margin-bottom:30px;
+}
+body{
+	background-color: #457b9d;
+	color:#fdf0d5 ;
+	font-size: 24px;
+	text-align: justify;
+	margin-top: 20px;
+	padding: 30px;
+}
+.table{
+	color:#fdf0d5 ;
+	font-size: 24px;
+	text-align: justify;
+	margin-top: 20px;
+	padding: 30px;
+}
+.tableup{
+	background-color: #003049;
+	color:#fdf0d5 ;
+	font-size: 26px;
+	text-align: center;
+}
+h1{
+	color: #fdf0d5;
+	text-align: center;
+	margin-bottom:50px ;}
